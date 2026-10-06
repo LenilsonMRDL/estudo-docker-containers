@@ -1,0 +1,5 @@
+## Container Interativo Testado
+docker run -it ubuntu:latest /bin/bash  # Executa Ubuntu interativo
+- Consegui executar comandos dentro do container
+- O container tem seu próprio sistema de arquivos
+- Ao sair com 'exit', o container para
